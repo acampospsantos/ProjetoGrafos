@@ -1,0 +1,4 @@
+Vértices - Classificação:
+* Azul: Empresariais
+* Vermelho: Hospitais, Clínicas, centros de saúde no geral
+* Preto: Pontos de tomada de decisão nas ruas

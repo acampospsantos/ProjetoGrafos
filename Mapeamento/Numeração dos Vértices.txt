@@ -1,0 +1,5 @@
+Numeração de vértices: 
+- Preto (Tomadas de decisão): 0 - 61
+- Vermelho (Hospitais): 62 - 87
+- Azul (Empresariais): 88 - 95
+

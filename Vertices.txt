@@ -1,0 +1,97 @@
+(id:int , nome:String, VérticesSucessoresId: int)
+
+1,"v1", 2
+2,"v2", 3
+3,"v3", 4, 38, 93, 88
+4,"v4", 5, 6
+5,"v5", 6, 62
+6,"v6", 7
+7,"v7", 8
+8,"v8", 7, 9, 64
+9,"v9", 34, 10, 66
+10,"v10", 11
+11,"v11", 12, 13, 65
+12,"v12", 8
+13,"v13", 11, 33, 14
+14,"v14", 13, 32, 15
+15,"v15", 16
+16,"v16", 17
+17,"v17", null
+18,"v18", 17
+19,"v19", 18, 68, 69
+20,"v20", 19, 32, 70
+21,"v21", 20
+22,"v22", 21
+23,"v23", 22, 27
+24,"v24", 23
+25,"v25", 24
+26,"v26", 58, 25, 74, 95
+27,"v27", 26
+28,"v28", 29, 26
+29,"v29", 30
+30,"v30", 43, 31, 94
+31,"v31", 30, 32, 22
+32,"v32", 33, 31, 14, 20
+33,"v33", 10, 13, 67
+34,"v34", 35, 31, 71
+35,"v35", 37, 36
+36,"v36", 6, 63
+37,"v37", 38, 42
+38,"v38", 41, 89
+39,"v39", 1, 38, 92
+40,"v40", 39, 90
+41,"v41", 40, 42, 54, 91
+42,"v42", 37, 41, 43, 56, 85, 84
+43,"v43", 35, 42, 86
+44,"v44", 40, 45, 82
+45,"v45", 46, 47
+46,"v46", null
+47,"v47", 49, 81
+48,"v48", 49, 78, 79
+49,"v49", 50, 80
+50,"v50", 51, 53
+51,"v51", 52, 53, 83
+52,"v52", 44
+53,"v53", 55, 57
+54,"v54", 55, 51
+55,"v55", 56
+56,"v56", 28, 87, 72, 73
+57,"v57", 53, 58, 75, 77
+58,"v58", 57, 59, 61
+59,"v59", 60
+60,"v60", 61, 76
+61,"v61", 58, 25
+62,"Hospital Ilha do Leite", 5
+63,"Cedrape", 6
+64,"Nefroclinica", 8
+65,"Centro de Hematologia e Oncologia Pediátrica", 11
+66,"Otorrinos Recife", 34
+67,"Clínica Suylan Melo Odontologia Especializada", 10
+68,"Doutora Fabiana Gonzaga, infectologista", 18
+69,"Alergo Imuno, Clínica de Alerga", 18
+70,"Hospital Unimed Recife III", 19
+71,"Clínica Alternativa", 31
+72,"Desenvolver, Clínica Natalia Spinelli", 28
+73,"SEOPE", 28
+74,"UTC, Unidade de Tratamento Cardiologia", 58
+75,"Laboratório PAS", 57
+76,"Centro Médico Esperança Recife", 60
+77,"Hospital Esperança Recife: Urgência", 57
+78,"Centro Médico 1, Hospital Esperança", 48
+79,"Emergência Pediátrica, Hospital Esperança", 49
+80,"Marcela da Costa, Ginecologista", 49
+81,"HOPE", 49
+82,"Oftalmo Otorrino Emergência", 45
+83,"Hapvida, Unidade da Mulher", 52
+84,"Hospital Albert Sabin", 56
+85,"UNIMED", 42
+86,"Gastroclínica Carlos Gantois", 43
+87,"SPAC", 28
+88,"Empresarial Albert Einstein", 4
+89,"Empresarial Alfred Nobel", 41
+90,"Empresarial Isaac Newton", 39
+91,"Empresarial Charles Darwin", 40
+92,"Empresarial Thomas Edison", 1
+93,"Empresarial Graham Bell", 38
+94,"Empresarial Cervantes", 30
+95,"Empresarial Pernambuco Corporate", 58
