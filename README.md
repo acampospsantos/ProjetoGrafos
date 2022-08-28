@@ -14,3 +14,7 @@ Esse programa é capaz de imprimir a Lista de Adjacência do Grafo, assim como t
 ## Mapa do Bairro da Ilha do Leite
 ![0 (Mapa Bruto)](https://user-images.githubusercontent.com/54013675/184714151-ab37afa8-69e1-4642-9d4f-0889d21a08cc.png)
 
+## Mapa - Pós Mapeamento
+![8](https://user-images.githubusercontent.com/54013675/187087937-dc2d76a7-be88-4b67-825e-2b683dfff325.png)
+
+
